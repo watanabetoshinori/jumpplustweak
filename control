@@ -1,0 +1,9 @@
+Package: com.yourcompany.jumpplus-tweak
+Name: jumpplus-tweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to improve the usability of the Jump+ app.
+Maintainer: Watanabe Toshinori
+Author: Watanabe Toshinori
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
